@@ -17,9 +17,9 @@ In case of 2 players, the second player will recieve his 10 questions after the 
 Finally a bar graph is plotted as a review.
 
 LIFELINES:
-50-50--Eliminates two wrong options from the given set of 4 options.---- Holds 5 points
-Pass--The question will be skipped.---- Holds 3 points
-Eliminate One-- Eliminates one wrong option from the given set of 4.---- Holds 7 points
+(i)50-50--Eliminates two wrong options from the given set of 4 options.---- Holds 5 points.
+(ii)Pass--The question will be skipped.---- Holds 3 points.
+(iii)Eliminate One-- Eliminates one wrong option from the given set of 4.---- Holds 7 points.
 # Implementation
 Libraries like matplotlib.pyplot,time,numpy have been used.
 main.py has to be run after cloning the repository on your PC.
