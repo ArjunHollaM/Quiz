@@ -28,7 +28,7 @@ If the player types 'ok' ..the first question is randomly printed and waits for 
 # Run CODE
 Code is written on Windows platform,Command prompt can be used to run the programs and other users can run it on their own terminals using their own commands link reference for commands: <a href=https://www.lemoda.net/windows/windows2unix/windows2unix.html>Commands<a>
 Preferably python 3 is used for execution.
-  <br><p style="font-weight: bold;">Install python</p>
+  <br><p><i><b>Install python</b></i></p>
 Python should be installed in your PC before proceeding.
 in terminal...
   <p><code>python</code></p>
@@ -36,18 +36,18 @@ in terminal...
   <p><code>Python 3.8.3 (tags/v3.8.3:6f8c832, May 13 2020, 22:37:02) [MSC v.1924 64 bit (AMD64)] on win32
     Type "help", "copyright", "credits" or "license" for more information.</code></p>
 If something like this does not appear...click <a href=https://www.python.org/downloads/>here<a> to install python.
-  <br><p style="font-weight: bold;">Install PIP</p>
+  <br><p><i><b>Install PIP</b></i></p>
 PIP should be installed. Check this by typing this in your terminal.
   <p><code>pip help</code></p>
 If PIP responds, then it is installed.If not....click <a href="https://pip.pypa.io/en/stable/installing/">here</a>.
 <br>PIP is automatically installed with Python 2.7. 9+ and Python 3.4+. PIP also comes with the virtualenv and pyvenv virtual environments.
-  <br><p style="font-weight: bold;">Install Git</p>
+  <br><p><i><p>Install Git</b></i></p>
 Git has to be installed.Check if it is installed in your computer by typing this command in your terminal
   <p><code>git --version</code></p>
 If there was no reponse,install git by clicking <a href=https://git-scm.com/downloads>here<a>.
-  <br><p style="font-weight: bold;">Cloning the repository</p>
+  <br><p><i><b>Cloning the repository</b></i></p>
   <p><code>git clone https://github.com/ArjunHollaM/Quiz </code></p>
-  <p style="font-weight: bold;">Navigate and Execute the program</p>
+  <p><i><b>Navigate and Execute the program</b></i></p>
 Navigate...
   <p><code>cd Quiz</code></p>
 Execute...
