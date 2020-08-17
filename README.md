@@ -2,7 +2,6 @@
 This is a Science and Technology Quiz.
 Execute the 'main.py' file to sart the quiz.
 All you have to do is to respond for the questions that are asked.
-You can use lifelines if you are unsure about an answer.Just type 'life' instead of the answer.
 The instructions,lifelinees,no. of players are explained in the Quiz itself.
 # Description
 In this project you will be testing your knowledge on the topic 'Science and Technology'
@@ -26,4 +25,14 @@ Libraries like matplotlib.pyplot,time,numpy have been used.
 When the main.py file is run..it starts off with "Welcome to the Science and Technology quiz!" followed by instructions to the game.
 It will ask each player if they are ready ...if the response then, is not what is desired ..then it prints "It's ok. Try later".
 If the player types 'ok' ..the first question is randomly printed and waits for the player to give a response. An invalid response is considered as a wrong response and hence points will be deducted.
-
+# Run CODE
+Code is written on Windows platform,Command prompt can be used to run the programs and other users can run it on their own terminals using their own commands link reference for commands: <a href=https://www.lemoda.net/windows/windows2unix/windows2unix.html>Commands<a>
+Preferably python 3 is used for execution.
+Check if PIP is Already Installed Before you install PIP on Windows
+  <code>pip help</code>
+ If PIP responds, then it is installed.If not....click <a href="https://pip.pypa.io/en/stable/installing/">here</a>
+ Python should be installed in your PC before proceeding
+  
+  
+  
+  
