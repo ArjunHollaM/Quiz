@@ -32,20 +32,20 @@ Code is written on Windows platform,Command prompt can be used to run the progra
 Python should be installed in your PC before proceeding.
 in terminal...
   <p><code>python</code></p>
-<br>If the command is recognized, Python responds with its version and a list of commands.
+If the command is recognized, Python responds with its version and a list of commands.
   <p><code>Python 3.8.3 (tags/v3.8.3:6f8c832, May 13 2020, 22:37:02) [MSC v.1924 64 bit (AMD64)] on win32
     Type "help", "copyright", "credits" or "license" for more information.</code></p>
 <br>If something like this does not appear...click <a href=https://www.python.org/downloads/>here<a> to install python.
-  <br><p><i><b>Install PIP</b></i></p>
+  <p><i><b>Install PIP</b></i></p>
 PIP should be installed. Check this by typing this in your terminal.
   <p><code>pip help</code></p>
 If PIP responds, then it is installed.If not....click <a href="https://pip.pypa.io/en/stable/installing/">here</a>.
-<br>PIP is automatically installed with Python 2.7. 9+ and Python 3.4+. PIP also comes with the virtualenv and pyvenv virtual environments.
-  <br><p><i><b>Install Git</b></i></p>
+PIP is automatically installed with Python 2.7. 9+ and Python 3.4+. PIP also comes with the virtualenv and pyvenv virtual environments.
+  <p><i><b>Install Git</b></i></p>
 Git has to be installed.Check if it is installed in your computer by typing this command in your terminal
   <p><code>git --version</code></p>
-<br>If there was no reponse,install git by clicking <a href=https://git-scm.com/downloads>here<a>.
-  <br><p><i><b>Cloning the repository</b></i></p>
+If there was no reponse,install git by clicking <a href=https://git-scm.com/downloads>here<a>.
+ <p><i><b>Cloning the repository</b></i></p>
   <p><code>git clone https://github.com/ArjunHollaM/Quiz </code></p>
   <p><i><b>Navigate and Execute the program</b></i></p>
 Navigate...
