@@ -22,7 +22,7 @@ LIFELINES:
 (iii)Eliminate One-- Eliminates one wrong option from the given set of 4.---- Holds 7 points.
 # Implementation
 Libraries like matplotlib.pyplot,time,numpy have been used.
-main.py has to be run after cloning the repository on your PC.
+'main.py' has to be run after cloning the repository on your PC.
 When the main.py file is run..it starts off with "Welcome to the Science and Technology quiz!" followed by instructions to the game.
 It will ask each player if they are ready ...if the response then, is not what is desired ..then it prints "It's ok. Try later".
 If the player types 'ok' ..the first question is randomly printed and waits for the player to give a response. An invalid response is considered as a wrong response and hence points will be deducted.
