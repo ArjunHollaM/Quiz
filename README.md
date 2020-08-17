@@ -35,7 +35,7 @@ in terminal...
 If the command is recognized, Python responds with its version and a list of commands.
   <p><code>Python 3.8.3 (tags/v3.8.3:6f8c832, May 13 2020, 22:37:02) [MSC v.1924 64 bit (AMD64)] on win32
     Type "help", "copyright", "credits" or "license" for more information.</code></p>
-<br>If something like this does not appear...click <a href=https://www.python.org/downloads/>here<a> to install python.
+If something like this does not appear...click <a href=https://www.python.org/downloads/>here<a> to install python.
   <p><i><b>Install PIP</b></i></p>
 PIP should be installed. Check this by typing this in your terminal.
   <p><code>pip help</code></p>
