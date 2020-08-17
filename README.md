@@ -28,7 +28,7 @@ If the player types 'ok' ..the first question is randomly printed and waits for 
 # Run CODE
 Code is written on Windows platform,Command prompt can be used to run the programs and other users can run it on their own terminals using their own commands link reference for commands: <a href=https://www.lemoda.net/windows/windows2unix/windows2unix.html>Commands<a>
 Preferably python 3 is used for execution.
-  <br><h1>Install python</h1>
+  <br><h1 style="font-size:3vw">Install python</h1>
 Python should be installed in your PC before proceeding.
 in terminal...
   <p><code>python</code></p>
@@ -36,19 +36,21 @@ in terminal...
   <p><code>Python 3.8.3 (tags/v3.8.3:6f8c832, May 13 2020, 22:37:02) [MSC v.1924 64 bit (AMD64)] on win32
     Type "help", "copyright", "credits" or "license" for more information.</code></p>
 If something like this does not appear...click <a href=https://www.python.org/downloads/>here<a> to install python.
-  <br><h1>Install PIP</h1>
-<br>PIP should be installed. Check this by typing this in your terminal.
+  <br><h1 style="font-size:3vw">Install PIP</h1>
+PIP should be installed. Check this by typing this in your terminal.
   <p><code>pip help</code></p>
 If PIP responds, then it is installed.If not....click <a href="https://pip.pypa.io/en/stable/installing/">here</a>.
 <br>PIP is automatically installed with Python 2.7. 9+ and Python 3.4+. PIP also comes with the virtualenv and pyvenv virtual environments.
-  <br><h1>Install Git</h1>
-<br>Git has to be installed.Check if it is installed in your computer by typing this command in your terminal
+  <br><h1 style="font-size:3vw">Install Git</h1>
+Git has to be installed.Check if it is installed in your computer by typing this command in your terminal
   <p><code>git --version</code></p>
 If there was no reponse,install git by clicking <a href=https://git-scm.com/downloads>here<a>.
-  <br><h1>Cloning the repository</h1></p>
+  <br><h1 style="font-size:3vw">Cloning the repository</h1></p>
   <p><code>git clone https://github.com/ArjunHollaM/Quiz </code></p>
-  <h1>Navigate and Execute the program</h1>
+  <h1 style="font-size:3vw">Navigate and Execute the program</h1>
+Navigate...
   <p><code>cd Quiz</code></p>
+Execute...
   <p><code>python main.py</code></p>
  
   
