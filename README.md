@@ -29,7 +29,7 @@ If the player types 'ok' ..the first question is randomly printed and waits for 
 Code is written on Windows platform,Command prompt can be used to run the programs and other users can run it on their own terminals using their own commands link reference for commands: <a href=https://www.lemoda.net/windows/windows2unix/windows2unix.html>Commands<a>
 Preferably python 3 is used for execution.
 Check if PIP is Already Installed Before you install PIP on Windows
-  <code>pip help</code>
+  <p><code>pip help</code></p>
  If PIP responds, then it is installed.If not....click <a href="https://pip.pypa.io/en/stable/installing/">here</a>
  Python should be installed in your PC before proceeding
   
